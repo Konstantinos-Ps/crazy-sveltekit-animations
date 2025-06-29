@@ -60,7 +60,7 @@
 	const pageDescription = 'SvelteKit Animations and more';
 	const pageKeywords = 'SvelteKit, Animations, Components,';
 	const pageAuthor = 'Konstantinos';
-	const pageUrl = 'https://crazy-sveltekit-animations-xtrg.vercel.app';
+	const pageUrl = 'https://crazy-sveltekit-animations-flax.vercel.app/';
 </script>
 
 <svelte:head>
